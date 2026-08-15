@@ -1,12 +1,6 @@
- - 👋 Hi, I’m @HaneenEmbaby
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hi, I'm Haneen Embaby!
 
-<!---
-HaneenEmbaby/HaneenEmbaby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Data Scientist | Data Analyst | Data Engineer<br/>
+Passionate about turning data into meaningful insights and building data-driven solutions.<br/>
+Studying Data Science at Alexandria University.<br/>
+Currently expanding my skills in Data Engineering and Generative AI.
